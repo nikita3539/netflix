@@ -1,0 +1,35 @@
+.col{
+    padding-top: 50px;
+    /* background-image: url(https://assets.nflxext.com/ffe/siteui/vlv3/cacfadb7-c017-4318-85e4-7f46da1cae88/e43aa8b1-ea06-46a5-abe3-df13243e718d/IN-en-20240603-popsignuptwoweeks-perspective_alpha_website_large.jpg);
+    background-size: 100% ; */
+}
+#bttn{
+    padding: 7px;
+    padding-left: 12px;
+    padding-right: 12px;
+    border:  double 6px;
+    border-color: aliceblue;
+    background-color:transparent !important ;
+    letter-spacing: 2px;
+    font-weight: bolder;
+    font-size: larger;
+    
+    
+}
+
+#newbtttn{
+    background-color: red !important;
+
+    border-color:  red !important;
+    padding: 6px;
+    padding-left: 12px;
+    padding-right: 12px;
+
+}
+
+
+.div-homepic{
+    background-image: url(https://assets.nflxext.com/ffe/siteui/vlv3/cacfadb7-c017-4318-85e4-7f46da1cae88/e43aa8b1-ea06-46a5-abe3-df13243e718d/IN-en-20240603-popsignuptwoweeks-perspective_alpha_website_large.jpg) !important;
+    height: 700px;
+
+}
